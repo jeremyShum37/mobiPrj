@@ -1,1 +1,1 @@
-// this is a librabry
+// this is a library
